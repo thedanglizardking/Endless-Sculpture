@@ -9,7 +9,7 @@ Coin version: 4.0.0
 OCC version: 7.4.0
 
 FreeCAD Additional Workbenches: 
-Assembly4
+Assembly4,
 WorkFeatureDev
 
 Acceptable Hardware:
